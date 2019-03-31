@@ -11,4 +11,4 @@
 	-s EXTRA_EXPORTED_RUNTIME_METHODS="['cwrap']" \
 	-s TOTAL_MEMORY=16777216 \
 	./libs.cpp \
-	-o libs.js
+	-o ./docs/libs.js
